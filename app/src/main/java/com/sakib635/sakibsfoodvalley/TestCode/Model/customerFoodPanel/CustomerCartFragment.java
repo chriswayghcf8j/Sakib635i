@@ -1,4 +1,5 @@
-package com.sakib635.sakibsfoodvalley.Model.chefFoodPanel;
+package com.sakib635.sakibsfoodvalley.TestCode.Model.customerFoodPanel;
+
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,15 +11,12 @@ import androidx.fragment.app.Fragment;
 
 import com.sakib635.sakibsfoodvalley.R;
 
-
-public class ChefOrderFragment extends Fragment {
-
+public class CustomerCartFragment  extends Fragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-
-        View v = inflater.inflate(R.layout.chef_orders,null);
-        getActivity().setTitle("New Orders");
+        View v = inflater.inflate(R.layout.fragment_customercart, null);
+        getActivity().setTitle("Cart");
         return v;
     }
 }

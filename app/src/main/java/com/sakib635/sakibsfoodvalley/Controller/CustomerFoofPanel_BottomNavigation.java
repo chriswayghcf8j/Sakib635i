@@ -11,11 +11,11 @@ import android.view.MenuItem;
 
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.sakib635.sakibsfoodvalley.Model.customerFoodPanel.CustomerCartFragment;
-import com.sakib635.sakibsfoodvalley.Model.customerFoodPanel.CustomerHomeFragment;
-import com.sakib635.sakibsfoodvalley.Model.customerFoodPanel.CustomerOrderFragment;
-import com.sakib635.sakibsfoodvalley.Model.customerFoodPanel.CustomerProfileFragment;
-import com.sakib635.sakibsfoodvalley.Model.customerFoodPanel.CustomerTrackFragment;
+import com.sakib635.sakibsfoodvalley.TestCode.Model.customerFoodPanel.CustomerCartFragment;
+import com.sakib635.sakibsfoodvalley.TestCode.Model.customerFoodPanel.CustomerHomeFragment;
+import com.sakib635.sakibsfoodvalley.TestCode.Model.customerFoodPanel.CustomerOrderFragment;
+import com.sakib635.sakibsfoodvalley.TestCode.Model.customerFoodPanel.CustomerProfileFragment;
+import com.sakib635.sakibsfoodvalley.TestCode.Model.customerFoodPanel.CustomerTrackFragment;
 import com.sakib635.sakibsfoodvalley.R;
 
 public class CustomerFoofPanel_BottomNavigation extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {

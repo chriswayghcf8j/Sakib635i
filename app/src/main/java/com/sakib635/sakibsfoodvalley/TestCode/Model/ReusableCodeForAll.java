@@ -1,10 +1,8 @@
-package com.sakib635.sakibsfoodvalley.Model;
+package com.sakib635.sakibsfoodvalley.TestCode.Model;
 
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
-
-import com.sakib635.sakibsfoodvalley.Controller.ChefRegistration;
 
 public class ReusableCodeForAll {
     public static void ShowAlert(Context context, String title, String message) {

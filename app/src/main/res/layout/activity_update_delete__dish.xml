@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Model.UpdateDelete_Dish"
+    tools:context=".TestCode.Model.UpdateDelete_Dish"
     android:background="@drawable/img11">
 
 

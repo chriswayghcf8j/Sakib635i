@@ -8,10 +8,8 @@ import android.os.Bundle;
 import android.view.MenuItem;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.sakib635.sakibsfoodvalley.Model.chefFoodPanel.ChefOrderFragment;
-import com.sakib635.sakibsfoodvalley.Model.chefFoodPanel.ChefPendingOrdersFragment;
-import com.sakib635.sakibsfoodvalley.Model.deliveryFoodPanel.DeliveryPendingOrderFragment;
-import com.sakib635.sakibsfoodvalley.Model.deliveryFoodPanel.DeliveryShipOrderFragment;
+import com.sakib635.sakibsfoodvalley.TestCode.Model.deliveryFoodPanel.DeliveryPendingOrderFragment;
+import com.sakib635.sakibsfoodvalley.TestCode.Model.deliveryFoodPanel.DeliveryShipOrderFragment;
 import com.sakib635.sakibsfoodvalley.R;
 
 public class DeliveryFoodPanel_BottomNavigation extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {

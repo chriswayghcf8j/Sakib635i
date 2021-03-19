@@ -1,4 +1,4 @@
-package com.sakib635.sakibsfoodvalley.Model;
+package com.sakib635.sakibsfoodvalley.TestCode.Model;
 
 public class UpdateDishModel {
     String Dishes,RandomUID,Description,Quantity,Price,ImageURL,ChefId;

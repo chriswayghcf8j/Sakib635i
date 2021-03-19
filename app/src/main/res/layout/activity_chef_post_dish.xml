@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Model.chefFoodPanel.chef_postDish"
+    tools:context=".TestCode.Model.chefFoodPanel.chef_postDish"
     android:background="@drawable/img11">
 
 

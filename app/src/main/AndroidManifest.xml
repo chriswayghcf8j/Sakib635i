@@ -11,10 +11,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SakibsFoodValley"
         tools:replace="android:theme">
-        <activity android:name=".Model.chefFoodPanel.OrderDish"></activity>
+        <activity android:name=".TestCode.Model.chefFoodPanel.OrderDish"></activity>
         <activity android:name=".Controller.DeliveryForgotPassword" />
-        <activity android:name=".Model.UpdateDelete_Dish" />
-        <activity android:name=".Model.chefFoodPanel.chef_postDish" />
+        <activity android:name=".TestCode.Model.UpdateDelete_Dish" />
+        <activity android:name=".TestCode.Model.chefFoodPanel.chef_postDish" />
         <activity android:name=".Controller.DeliveryFoodPanel_BottomNavigation" />
         <activity android:name=".Controller.ForgotPassword" />
         <activity android:name=".Controller.CustomerFoofPanel_BottomNavigation" />

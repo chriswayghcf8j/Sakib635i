@@ -1,12 +1,10 @@
-package com.sakib635.sakibsfoodvalley.Model.customerFoodPanel;
+package com.sakib635.sakibsfoodvalley.TestCode.Model.customerFoodPanel;
 
 public class Customer {
 
 
     private String City,ConfirmPassword,EmailID,FirstName,LastName,Mobileno,Password,State,Area;
-
-    public Customer() {
-
+    public Customer(){
 
     }
 
@@ -24,7 +22,7 @@ public class Customer {
     }
 
     public String getCity() {
-        return City;
+        return this.City;
     }
 
     public void setCity(String city) {

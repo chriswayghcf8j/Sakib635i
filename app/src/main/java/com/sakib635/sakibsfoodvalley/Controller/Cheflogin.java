@@ -17,7 +17,7 @@ import com.google.android.gms.tasks.Task;
 import com.google.android.material.textfield.TextInputLayout;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
-import com.sakib635.sakibsfoodvalley.Model.ReusableCodeForAll;
+import com.sakib635.sakibsfoodvalley.TestCode.Model.ReusableCodeForAll;
 import com.sakib635.sakibsfoodvalley.R;
 
 public class Cheflogin extends AppCompatActivity {

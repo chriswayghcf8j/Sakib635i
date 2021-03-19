@@ -8,12 +8,10 @@ import android.os.Bundle;
 import android.view.MenuItem;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.sakib635.sakibsfoodvalley.Model.chefFoodPanel.ChefHomeFragment;
-import com.sakib635.sakibsfoodvalley.Model.chefFoodPanel.ChefOrderFragment;
-import com.sakib635.sakibsfoodvalley.Model.chefFoodPanel.ChefPendingOrdersFragment;
-import com.sakib635.sakibsfoodvalley.Model.chefFoodPanel.ChefProfileFragment;
-import com.sakib635.sakibsfoodvalley.Model.customerFoodPanel.CustomerHomeFragment;
-import com.sakib635.sakibsfoodvalley.Model.customerFoodPanel.CustomerTrackFragment;
+import com.sakib635.sakibsfoodvalley.TestCode.Model.chefFoodPanel.ChefHomeFragment;
+import com.sakib635.sakibsfoodvalley.TestCode.Model.chefFoodPanel.ChefOrderFragment;
+import com.sakib635.sakibsfoodvalley.TestCode.Model.chefFoodPanel.ChefPendingOrdersFragment;
+import com.sakib635.sakibsfoodvalley.TestCode.Model.chefFoodPanel.ChefProfileFragment;
 import com.sakib635.sakibsfoodvalley.R;
 
 public class ChefFoodPanel_BottomNavigation extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener{

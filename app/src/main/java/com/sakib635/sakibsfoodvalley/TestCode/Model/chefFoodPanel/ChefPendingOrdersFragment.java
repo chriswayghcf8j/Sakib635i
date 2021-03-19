@@ -1,11 +1,6 @@
-package com.sakib635.sakibsfoodvalley.Model.deliveryFoodPanel;
-
-import android.content.Intent;
+package com.sakib635.sakibsfoodvalley.TestCode.Model.chefFoodPanel;
 import android.os.Bundle;
 import android.view.LayoutInflater;
-import android.view.Menu;
-import android.view.MenuInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
@@ -13,17 +8,17 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.google.firebase.auth.FirebaseAuth;
-import com.sakib635.sakibsfoodvalley.Controller.MainMenu;
 import com.sakib635.sakibsfoodvalley.R;
 
-public class DeliveryPendingOrderFragment extends Fragment {
+
+public class ChefPendingOrdersFragment extends Fragment {
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View v = inflater.inflate(R.layout.fragment_deliverypendingorder, null);
+        View v = inflater.inflate(R.layout.fragment_chef_pendingorders,null);
         getActivity().setTitle("Pending Orders");
         return v;
     }
 }
+
