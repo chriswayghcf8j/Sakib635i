@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878523615681",
+    "firebase_url": "https://sakib-s-food-valley-default-rtdb.firebaseio.com",
+    "project_id": "sakib-s-food-valley",
+    "storage_bucket": "sakib-s-food-valley.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878523615681:android:139b047c97b071d33cc740",
+        "android_client_info": {
+          "package_name": "com.sakib635.sakibsfoodvalley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878523615681-sttklgk16sa3vsi9qsttq5m79b4nd5f6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sakib635.sakibsfoodvalley",
+            "certificate_hash": "2332b4cff149701836352b0a64e7dd6801a65f0a"
+          }
+        },
+        {
+          "client_id": "878523615681-q29pqbjsq2hh296j9l04gjs8k59cjs9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMVDYxcL02aWnQAsTbE0ae3OshGM7B3Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878523615681-q29pqbjsq2hh296j9l04gjs8k59cjs9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
